@@ -177,7 +177,7 @@ The **globe** icon under the toot area adjusts your status privacy by changing w
 | Direct          | Mentioned people only  | Mentioned people only | Similar to email |
 
 #### Can I use hashtags? Should I?
-Yes! Hashtags are tracked and are often fun, but some tags help people avoid triggering posts. This is especially appreciated on public posts of #POLITICS, #HEALTH, #DEPRESSION, or #LEWD OR #NSFW topics. Such posts are also what the Content Warning system was designed for.
+Yes! Hashtags are tracked and are often fun, but some tags help people avoid undesirable posts. This is especially appreciated on public posts of #POLITICS, #HEALTH, #DEPRESSION, or #LEWD OR #NSFW topics. Such posts are also what the Content Warning system was designed for.
 
 #### How do I get verified with a “✅”?
 “✅” is an emoji, *only* for lulz. There is no verification on Mastodon. You can copy and paste “✅” into your bio if you wish, you cheeky monkey.
